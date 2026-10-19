@@ -1,0 +1,8 @@
+faiss-cpu
+sentence-transformers
+tavily-python
+requests
+pandas
+numpy
+openai
+python-dotenv

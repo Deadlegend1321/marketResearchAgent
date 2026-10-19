@@ -1,0 +1,37 @@
+{
+  "notes": [
+    {
+      "ts": 1792395241.258603,
+      "note": "planner created"
+    },
+    {
+      "ts": 1792395244.449635,
+      "note": "gathered evidence"
+    }
+  ],
+  "drafts": [
+    {
+      "ts": 1792395253.5838249,
+      "draft": "# Executive Brief: Healthcare AI Market Outlook 2025\n\n## Market Overview\n- The global **Healthcare AI market** is projected to grow significantly, with a valuation of **USD 36.7 billion in 2025** and expected to reach **USD 505.6 billion by 2033**, reflecting a **CAGR of 38.9%** from 2026 to 2033 (Grand View Research).\n- North America is anticipated to dominate the market, holding a **54% revenue share** in 2025, driven by increased demand for efficiency and accuracy in healthcare (Grand View Research).\n\n## Key Trends\n- **Regulatory Approvals**: Recent approvals for AI diagnostic tools have led to pilot deployments in regional hospitals, enhancing the adoption of AI technologies in clinical settings (Healthcare AI, 2024).\n- **Cloud Adoption**: Managed AI platforms are experiencing a **40% YoY growth**, particularly among SMEs, as they outsource infrastructure needs (AI & Cloud, 2024).\n- **Investment Surge**: AI-enabled healthcare startups captured **62% of venture capital** in 2025, with average deal sizes increasing significantly, indicating strong investor confidence in AI solutions (Vention, 2025).\n\n## Segment Insights\n- **Software Dominance**: The software segment is expected to maintain a dominant presence, while the services segment is projected to grow at the highest CAGR of **19.4%** due to the increasing adoption of AI in healthcare systems (Grand View Research).\n- **Application Growth**: The **robot-assisted surgery** segment is leading the market, with significant expansion expected in the coming years, alongside growth in drug discovery and development (Grand View Research).\n- **Generative AI**: The adoption of generative AI in healthcare is on the rise, with **85% of healthcare organizations** exploring its implementation by the end of 2024 (Vention, 2025).\n\n## Regional Insights\n- The **Asia-Pacific region** is anticipated to grow at the fastest rate during the forecast period, driven by increasing investments and government support for AI integration in healthcare (Grand View Research).\n- The **UK** is expected to hold the largest market share in 2025, with initiatives from the National Health Service (NHS) aimed at enhancing patient care through AI technologies (Grand View Research).\n\n## Conclusion\nThe Healthcare AI market is poised for substantial growth, driven by technological advancements, regulatory support, and increasing investment. Organizations are expected to adopt AI solutions that deliver clear value in terms of operational efficiency and improved patient outcomes.\n\n### Sources\n- Grand View Research\n- Healthcare AI (2024)\n- AI & Cloud (2024)\n- Vention (2025)"
+    },
+    {
+      "ts": 1792395262.512901,
+      "draft": "# Executive Brief: Healthcare AI Market Outlook 2025\n\n## Market Overview\nThe global **Healthcare AI market** is projected to experience substantial growth, with a valuation of **USD 36.7 billion in 2025** and an anticipated increase to **USD 505.6 billion by 2033**, reflecting a **CAGR of 38.9%** from 2026 to 2033 (Grand View Research, 2023). North America is expected to dominate the market, capturing a **54% revenue share** in 2025, driven by heightened demand for efficiency and accuracy in healthcare services (Grand View Research, 2023).\n\n## Key Trends\n\n### Regulatory Approvals\nRecent approvals for AI diagnostic tools have facilitated pilot deployments in regional hospitals, significantly enhancing the adoption of AI technologies within clinical settings (Healthcare AI, 2024).\n\n### Cloud Adoption\nManaged AI platforms are witnessing a **40% year-over-year (YoY) growth**, particularly among small and medium-sized enterprises (SMEs), as these organizations increasingly outsource their infrastructure needs (AI & Cloud, 2024).\n\n### Investment Surge\nAI-enabled healthcare startups captured **62% of venture capital** in 2025, with average deal sizes rising notably, indicating strong investor confidence in AI solutions (Vention, 2025).\n\n## Segment Insights\n\n### Software Dominance\nThe software segment is anticipated to maintain a dominant market presence, while the services segment is projected to grow at the highest CAGR of **19.4%** due to the increasing integration of AI technologies in healthcare systems (Grand View Research, 2023).\n\n### Application Growth\nThe **robot-assisted surgery** segment is currently leading the market, with significant expansion expected in the coming years. This growth is complemented by advancements in drug discovery and development (Grand View Research, 2023).\n\n### Generative AI\nThe adoption of generative AI in healthcare is gaining momentum, with **85% of healthcare organizations** exploring its implementation by the end of 2024 (Vention, 2025).\n\n## Regional Insights\n\n### Asia-Pacific Growth\nThe **Asia-Pacific region** is projected to grow at the fastest rate during the forecast period, driven by increasing investments and government support for AI integration in healthcare (Grand View Research, 2023).\n\n### UK Market Position\nThe **United Kingdom** is expected to hold a significant market share in 2025, bolstered by initiatives from the National Health Service (NHS) aimed at enhancing patient care through AI technologies (Grand View Research, 2023). This positions the UK as a key player in the European healthcare AI landscape.\n\n## Conclusion\nThe Healthcare AI market is on track for substantial growth, propelled by technological advancements, regulatory support, and escalating investments. Organizations are expected to increasingly adopt AI solutions that offer clear value in terms of operational efficiency and improved patient outcomes.\n\n### Sources\n- Grand View Research (2023)\n- Healthcare AI (2024)\n- AI & Cloud (2024)\n- Vention (2025)"
+    }
+  ],
+  "citations": [
+    "rag:0",
+    "rag:1",
+    "rag:2",
+    "web:0",
+    "web:1",
+    "web:2",
+    "web:3",
+    "web:4",
+    "web:5",
+    "web:6",
+    "web:7",
+    "web:8",
+    "web:9"
+  ]
+}
